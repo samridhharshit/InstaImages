@@ -7,11 +7,11 @@ class SignIn extends React.Component {
     render() {
 
         let signIn = () => {
-            window.location.assign('https://api.instagram.com/oauth/authorize\n' +
-                '  ?app_id=464152924481142\n' +
-                '  &redirect_uri=http://localhost:3000\n' +
-                '  &scope=user_profile,user_media\n' +
-                '  &response_type=code');
+            // window.location.assign('https://api.instagram.com/oauth/authorize\n' +
+            //     '  ?app_id=464152924481142\n' +
+            //     '  &redirect_uri=http://localhost:3000\n' +
+            //     '  &scope=user_profile,user_media\n' +
+            //     '  &response_type=code');
         };
 
         return (
