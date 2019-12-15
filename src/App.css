@@ -1,0 +1,29 @@
+.App {
+  margin-top: 10%;
+}
+
+.header {
+  text-align: center;
+  padding: 2rem;
+}
+
+.signin {
+  padding: 2rem 5rem;
+}
+
+.container-md {
+  border: 1px solid #e6e6e6;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+
+Form {
+  display: flex;
+  flex-direction: column;
+}
+
+.instagram, .facebook {
+  margin: 1rem 0;
+  padding: 1rem 0.5rem;
+}
