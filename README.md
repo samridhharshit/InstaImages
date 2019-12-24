@@ -8,7 +8,8 @@ In addition to this, the user shall be able to share his/her website created wit
 
 1. React, reactstrap and react-bootstarp for frontend
 2. Firebase Cloudstore as a backend to store users website components
-3. Heroku for deployment of the App
+3. Instagram login API
+4. Heroku for deployment of the App
 
 ## A working GIF of the app
 
